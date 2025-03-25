@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EPS.Domain\EPS.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

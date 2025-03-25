@@ -13,6 +13,8 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="Results\" />
+    <Folder Include="Paremeters\" />
   </ItemGroup>
 
 </Project>
